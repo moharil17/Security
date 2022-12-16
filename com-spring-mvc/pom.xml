@@ -8,7 +8,7 @@
   <name>com-spring-mvc Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-	        <springframework.version>4.3.4.RELEASE</springframework.version>
+	        <springframework.version>5.2.20.RELEASE</springframework.version>
 	        <springsecurity.version>4.2.0.RELEASE</springsecurity.version>
 	        <hibernate.version>5.0.5.Final</hibernate.version>
 	     </properties>
